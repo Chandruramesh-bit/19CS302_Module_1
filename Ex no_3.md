@@ -12,11 +12,6 @@ To write a C program to find number of years based on principle,rate & simple in
 6.End .
 ## Program:
 ```
-/*
-Program to find number of years based on principle,rate & simple interest.
-Developed by: santhosh kumar B
-RegisterNumber: 212223060249
-*/
 #include <stdio.h> 
 #include <math.h> 
 int main() 
